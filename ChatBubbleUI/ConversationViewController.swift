@@ -20,6 +20,9 @@ class ConversationViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         setUpUI()
+        /*
+        print("Just for the Demo of git Push and Commit")
+        */
     }
 
     private func setUpUI() {
